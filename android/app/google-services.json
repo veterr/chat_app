@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206722383527",
+    "project_id": "svg-mantra-project-108",
+    "storage_bucket": "svg-mantra-project-108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206722383527:android:3d80c663c96c81719be582",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ZMKRwR0BQkhKAFoe3QFE6PiizXCw6gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
